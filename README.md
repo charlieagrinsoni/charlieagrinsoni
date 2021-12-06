@@ -1,16 +1,32 @@
-### Hi there 👋
+## About Me
 
-<!--
-**charlieagrinsoni/charlieagrinsoni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a full-stack software engineer who loves to build - both in my professional and personal lives.
 
-Here are some ideas to get you started:
+Currently the Senior Director of Development @ [Asbury Automotive Group](https://www.asburyauto.com/).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on changing automotive consumer journey
+- 🌱 I’m currently learning full-stack JS development
+
+
+
+## What I'm Good At
+
+* Full-stack PHP
+* AWS administration
+* API development
+* Database management
+* Team management
+
+
+
+## What I'm Learning
+
+* [Node.js](https://www.npmjs.com/)
+* [Express.js](https://expressjs.com/)
+* [React.js](https://reactjs.org/)
+
+
+
+## Contact Me
+
+- 📫 How to reach me: cagrinsoni97@gmail.com
